@@ -10,5 +10,5 @@ Super-TicTacToe is my recreation of Super TicTacToe. Can be played against AI. M
 
 # License
 The code of this project is licensed under the MIT license.
-The project also uses raylib (https://www.raylib.com/) which is licensed under ZLIB/PNG license.
+The project also uses raylib (https://www.raylib.com/) which is licensed under the ZLIB/PNG license.
 Pull-requests will be reviewed and accepted, please keep your code simple, short and understandable! Thank you for all your support!
